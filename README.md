@@ -6,24 +6,6 @@
 
 ###
 
-<h3 align="left">Contacts</h3>
-
-###
-
-<div align="left">
-  <a href="mailto:n.sadova98@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/worldofhope666" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nadezhda-sadova/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">Attainments</h3>
 
 ###
@@ -55,3 +37,23 @@
 </div>
 
 ###
+
+<h3 align="left">Contacts</h3>
+
+###
+
+<div align="left">
+  
+  <a href="mailto:n.sadova98@gmail.com/">
+    <img src="https://pngimg.com/uploads/google/google_PNG19639.png" width="30" height="30" align="left" />
+  </a>
+
+  <a href="https://t.me/worldofhope666/">
+    <img src="https://pngimg.com/uploads/telegram/telegram_PNG6.png" width="30" height="30" align="left" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/nadezhda-sadova/">
+    <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png" width="30" height="30" align="left" />
+  </a>
+  
+</div>
