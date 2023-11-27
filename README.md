@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif"  />
+<img align="right" height="30vw" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif"  />
 
 ###
 
