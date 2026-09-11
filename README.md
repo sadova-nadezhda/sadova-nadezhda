@@ -17,10 +17,11 @@
 
 | Проект | Что это | Стек |
 |---|---|---|
-| Factum Store | Внутренний магазин мерча компании с внутренней валютой: каталог, корзина, заказы, кошелёк и переводы, события, авторизация | React 19, TypeScript, Redux Toolkit, RTK Query, React Router |
-| NPS-аналитика | Внутренний продукт компании: дашборд NPS с графиками и фильтрами, рейтинг менеджеров, Health Score клиентов, интеграция с Битрикс24 | React, TypeScript, Recharts |
-| google-ads| Внутренний инструмент: подбор ключевых слов по городам Казахстана через Google Ads API с выгрузкой в Excel | Python, Flask, Google Ads API |
-| react-burger | Дипломный проект Яндекс Практикума: конструктор бургеров с drag-and-drop, лентой заказов в реальном времени и авторизацией | React, TypeScript, Redux Toolkit, WebSocket, Jest, Cypress |
+| Factum Store| Внутренний магазин мерча компании с внутренней валютой: каталог, корзина, заказы, кошелёк и переводы, события, авторизация | React 19, TypeScript, Redux Toolkit, RTK Query, React Router |
+| NPS-аналитика| Внутренний продукт компании: дашборд NPS с графиками и фильтрами, рейтинг менеджеров, Health Score клиентов, интеграция с Битрикс24 | React, TypeScript, Recharts |
+| Stellar Burgers | Дипломный проект Яндекс Практикума: конструктор бургеров с drag-and-drop, лентой заказов в реальном времени и авторизацией | React, TypeScript, Redux Toolkit, WebSocket, Jest, Cypress |
+| Подбор ключевых слов | Внутренний инструмент: подбор ключевых слов по городам Казахстана через Google Ads API с выгрузкой в Excel | Python, Flask, Google Ads API |
+| STREETХАНА 3D-карта | Промо-сайт: интерактивная 3D-карта Казахстана с маршрутом фудтрака по 8 городам, три языка | JavaScript, Three.js, Vite |
 
 ## Контакты
 
