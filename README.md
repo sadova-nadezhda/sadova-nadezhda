@@ -1,7 +1,26 @@
-<h2 align="left">Hi everyone! I'm Hope 🌞</h2>
+# Надежда Садова
 
-###
+**Frontend-разработчик** · React · TypeScript · Redux Toolkit
 
-<img align="right" height="50vw" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif"  />
+Около 5 лет в коммерческой веб-разработке. Сейчас разрабатываю внутренние продукты компании: аналитические дашборды с графиками и фильтрами, интеграции с Битрикс24 через REST API. Слежу за производительностью интерфейсов, в ежедневной работе использую Claude Code и Cursor.
 
-###
+Почти 5 лет преподавала программирование, есть опыт наставничества и code review.
+
+## Стек
+
+![Стек](https://skillicons.dev/icons?i=react,ts,js,redux,vite,nodejs,html,css,sass,webpack,git,figma,wordpress,php)
+
+- **Основное:** React, TypeScript, Redux Toolkit, React Router, REST API
+- **Также:** Node.js, SQL, Sass, Webpack, Gulp, Figma, WordPress, WooCommerce, PHP
+- **AI в разработке:** Claude Code, Cursor
+
+## Проекты
+
+| Проект | Что это | Стек |
+|---|---|---|
+| [NPS-аналитика]| Внутренний продукт компании: дашборд NPS с графиками и фильтрами, рейтинг менеджеров, Health Score клиентов, интеграция с Битрикс24 |
+
+## Контакты
+
+- Email: n.sadova98@gmail.com
+- Telegram: [@worldofhope666](https://t.me/worldofhope666)
